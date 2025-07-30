@@ -85,6 +85,29 @@ A logistic regression model was trained on the following features:
 
 ---
 
+## 🛠️ How to Run
+
+1. **Clone the repository:**
+git clone https://github.com/mumairrr/Netflix_Content_Type_Classifier_Umeir.git
+cd Netflix_Content_Type_Classifier_Umeir
+
+
+2. Install required libraries:
+pip install -r requirements.txt
+
+3. Launch Jupyter Notebook:
+jupyter notebook
+
+Then open:
+📄 Netflix_Content_Type_Classifier_Umeir.ipynb
+
+📊 Dataset
+Netflix dataset from Kaggle - Netflix Shows
+
+📄 Requirements
+All dependencies are listed in requirements.txt:
+
+--
 ## 🙋‍♂️ Author
 
 **Umeir Mohamed**  
